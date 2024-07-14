@@ -6,4 +6,4 @@ This is the proof of participation in 45 days DSA challenge
 2. Find the Duplicate Number
 3. Move Zeroes
 4. Two Sum
-5. 
+5. Merge Two Sorted Arrays
