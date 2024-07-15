@@ -7,4 +7,4 @@ This is the proof of participation in 45 days DSA challenge
 3. Move Zeroes
 4. Two Sum
 5. Merge Two Sorted Arrays
-6.
+6. Majority Element
