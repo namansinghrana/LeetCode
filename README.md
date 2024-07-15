@@ -11,7 +11,7 @@ This is the proof of participation in 45 days DSA challenge
 7. Sort Colors
 8. Best Time to Buy and Sell Stocks I
 9. Best Time to Buy and Sell Stocks II
-10.
+10. Find all the Duplicates in an Array
 11.
 12.
 13.
