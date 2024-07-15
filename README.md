@@ -9,8 +9,8 @@ This is the proof of participation in 45 days DSA challenge
 5. Merge Two Sorted Arrays
 6. Majority Element
 7. Sort Colors
-8. Best Time to Buy and Sell Stocks
-9. 
+8. Best Time to Buy and Sell Stocks I
+9. Best Time to Buy and Sell Stocks II
 10.
 11.
 12.
