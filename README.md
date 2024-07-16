@@ -17,8 +17,8 @@ Day-1
 12. SubArray Sum Equals K
 13. SubArray Sum Divisible by K
 14. Valid Parentheses
-15.
-16.
+15. Find the Duplicates in a Given String
+16.  
 17.
 18.
 19.
