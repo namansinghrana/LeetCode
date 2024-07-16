@@ -14,7 +14,7 @@ Day-1
 9. Best Time to Buy and Sell Stocks II
 10. Find all the Duplicates in an Array
 11. Chocolate Distribution
-12.
+12. SubArray Sum Equals K
 13.
 14.
 15.
