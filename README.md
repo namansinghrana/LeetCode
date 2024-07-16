@@ -15,7 +15,7 @@ Day-1
 10. Find all the Duplicates in an Array
 11. Chocolate Distribution
 12. SubArray Sum Equals K
-13.
+13. SubArray Sum Divisible by K
 14.
 15.
 16.
