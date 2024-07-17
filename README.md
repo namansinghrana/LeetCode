@@ -21,9 +21,9 @@ Day-1
 16. Find the Index of the first occurence in the String
 17. Longest Common Prefix
 18. Valid Palindrome II
-19. 
-20.
-21.
+19. Middle of the Linked List
+20. Linked List Cycle
+21. Convert Binary Number in a Linked List to Integer
 22.
 23.
 24.
