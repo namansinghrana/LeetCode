@@ -21,7 +21,7 @@ Day-1
 16. Find the Index of the first occurence in the String
 17. Longest Common Prefix
 18. Valid Palindrome II
-19. Add Binary
+19. 
 20.
 21.
 22.
