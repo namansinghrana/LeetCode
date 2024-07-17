@@ -18,9 +18,22 @@ Day-1
 13. SubArray Sum Divisible by K
 14. Valid Parentheses
 15. Find the Duplicates in a Given String
-16.  
-17.
-18.
-19.
+16. Find the Index of the first occurence in the String
+17. Longest Common Prefix
+18. Valid Palindrome II
+19. Add Binary
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+29.
+30.
+31.
+
 
 
