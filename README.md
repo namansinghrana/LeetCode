@@ -24,7 +24,7 @@ Day-1
 19. Middle of the Linked List
 20. Linked List Cycle
 21. Convert Binary Number in a Linked List to Integer
-22.
+22. Removed LinkedList Elements
 23.
 24.
 25.
