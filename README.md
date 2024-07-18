@@ -25,11 +25,11 @@ Day-1
 20. Linked List Cycle
 21. Convert Binary Number in a Linked List to Integer
 22. Removed LinkedList Elements
-23.
-24.
-25.
-26.
-27.
+23. Sort a linked list of 0s, 1s and 2s
+24. Merge Two Sorted Lists
+25. Multiply two linked lists
+26. Reverse Linked List
+27. Add Two Numbers
 28.
 29.
 30.
