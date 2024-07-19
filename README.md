@@ -30,10 +30,10 @@ Day-1
 25. Multiply two linked lists
 26. Reverse Linked List
 27. Add Two Numbers
-28.
-29.
-30.
-31.
+28. Set Matrices Zero
+29. Max Product of Three Numbers
+30. Container with Most Water
+31. 
 
 
 
