@@ -33,7 +33,10 @@ Day-1
 28. Set Matrices Zero
 29. Max Product of Three Numbers
 30. Container with Most Water
-31. 
+31. Reverse Integer
+32. Roman to Integer
+33. Palindrome Number
+34. 
 
 
 
