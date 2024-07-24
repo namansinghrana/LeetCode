@@ -37,7 +37,8 @@ Day-1
 32. Roman to Integer
 33. Palindrome Number
 34. Binary Search
-35. 
+35. Valid Perfect Square
+36. 
 
 
 
