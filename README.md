@@ -38,6 +38,7 @@ Day-1
 33. Palindrome Number
 34. Binary Search
 35. Valid Perfect Square
-36. Arranging Coins
+36. 
+37. Arranging Coins
 
 
