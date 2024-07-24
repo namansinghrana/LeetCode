@@ -36,7 +36,8 @@ Day-1
 31. Reverse Integer
 32. Roman to Integer
 33. Palindrome Number
-34. 
+34. Binary Search
+35. 
 
 
 
