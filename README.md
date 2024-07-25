@@ -41,5 +41,6 @@ Day-1
 36. Arranging Coins
 37. Three Sum
 38. Four Sum
+39. Longest Repeating Character Replacement
 
 
