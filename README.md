@@ -44,5 +44,6 @@ Day-1
 39. Longest Repeating Character Replacement
 40. Excel Sheet Column Title
 41. Product Array Puzzle
+42. Add Binary
 
 
