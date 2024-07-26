@@ -42,5 +42,7 @@ Day-1
 37. Three Sum
 38. Four Sum
 39. Longest Repeating Character Replacement
+40. Excel Sheet Column Title
+41. 
 
 
