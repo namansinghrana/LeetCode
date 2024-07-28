@@ -46,6 +46,7 @@ Day-1
 41. Product Array Puzzle
 42. Add Binary
 43. Check if Array is Sorted and Rotated
-44. 
+44. Rotate Array
+45. 
 
 
