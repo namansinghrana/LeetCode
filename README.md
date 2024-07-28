@@ -45,5 +45,7 @@ Day-1
 40. Excel Sheet Column Title
 41. Product Array Puzzle
 42. Add Binary
+43. Check if Array is Sorted and Rotated
+44. 
 
 
