@@ -47,6 +47,7 @@ Day-1
 42. Add Binary
 43. Check if Array is Sorted and Rotated
 44. Rotate Array
-45. 
+45. Sorted Array Search
+46. 
 
 
