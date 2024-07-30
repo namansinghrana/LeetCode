@@ -50,6 +50,6 @@ Day-1
 45. Sorted Array Search
 46. Union of Two Sorted Arrays
 47. Missing Number
-48. 
+48. Single
 
 
