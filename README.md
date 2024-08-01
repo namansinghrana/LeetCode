@@ -53,4 +53,4 @@ Day-1
 48. Single Number
 49. Rearrange Array Element by Sign
 50. Next Permutation
-51. Number of
+51. Number of Senior
