@@ -54,4 +54,4 @@ Day-1
 49. Rearrange Array Element by Sign
 50. Next Permutation
 51. Number of Senior Citizen
-52. Count Elements With Maximum
+52. Count Elements With Maximum Frequency
