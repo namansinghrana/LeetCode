@@ -55,4 +55,4 @@ Day-1
 50. Next Permutation
 51. Number of Senior Citizen
 52. Count Elements With Maximum Frequency
-53. Minimum 
+53. Minimum Common
