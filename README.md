@@ -56,4 +56,4 @@ Day-1
 51. Number of Senior Citizen
 52. Count Elements With Maximum Frequency
 53. Minimum Common Value
-54. Minimum Swaps 
+54. Minimum Swaps to
