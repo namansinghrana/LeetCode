@@ -62,3 +62,4 @@ Day-1
 57. Valid Anagram
 58. Valid Palindrome
 59. Fizz Buzz
+60. Find if digit can be won
