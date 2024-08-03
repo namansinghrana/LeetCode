@@ -58,4 +58,4 @@ Day-1
 53. Minimum Common Value
 54. Minimum Swaps to Group All One's
 55. Time Needed to Rearrange a Binary String
-56. 
+56. Make Two
