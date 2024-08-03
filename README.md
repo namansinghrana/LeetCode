@@ -60,3 +60,4 @@ Day-1
 55. Time Needed to Rearrange a Binary String
 56. Make Two Araays Equal By Reversing Subarrays
 57. Valid Anagram
+58. Valid Palindrome
