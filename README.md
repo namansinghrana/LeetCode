@@ -61,3 +61,4 @@ Day-1
 56. Make Two Araays Equal By Reversing Subarrays
 57. Valid Anagram
 58. Valid Palindrome
+59. Fizz Buzz
