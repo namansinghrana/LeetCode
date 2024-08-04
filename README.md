@@ -64,4 +64,4 @@ Day-1
 59. Fizz Buzz
 60. Find if digit can be won
 61. Reformat Date
-62. Range Sum of
+62. Range Sum of Sorted
