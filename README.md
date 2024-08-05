@@ -65,4 +65,4 @@ Day-1
 60. Find if digit can be won
 61. Reformat Date
 62. Range Sum of Sorted Subarray Sums
-63. Kth Distinct String in an Arr
+63. Kth Distinct String in an Array
