@@ -68,4 +68,4 @@ Day-1
 63. Kth Distinct String in an Array
 64. Power of Three
 65. Number of 1 bits
-66. Minimum Number of Pushes
+66. Minimum Number of Pushes to Type
