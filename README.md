@@ -69,4 +69,4 @@ Day-1
 64. Power of Three
 65. Number of 1 bits
 66. Minimum Number of Pushes to Type Words II
-67. 
+67. Int
