@@ -71,4 +71,4 @@ Day-1
 66. Minimum Number of Pushes to Type Words II
 67. Integer to English
 68. Spiral Matrix III
-69. Range Sum
+69. Range Sum Query -
