@@ -73,3 +73,4 @@ Day-1
 68. Spiral Matrix III
 69. Range Sum Query - Immutable
 70. Magic Square in Grid
+71. 
