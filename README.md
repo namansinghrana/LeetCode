@@ -75,4 +75,4 @@ Day-1
 70. Magic Square in Grid
 71. Regions Cut By Slashes
 72. Kth Largest Element in a Stream
-73. 
+73. Lemonade
