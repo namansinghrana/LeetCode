@@ -77,4 +77,4 @@ Day-1
 72. Kth Largest Element in a Stream
 73. Lemonade Change
 74. Assign Cookies
-75. Longest
+75. Longest Plaindrome
