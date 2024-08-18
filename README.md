@@ -81,4 +81,4 @@ Day-1
 76. Maximum Distance in Arrays
 77. Ugly Numbers I
 78. Ugly Numbers II
-79. Maximum Energy Flow
+79. Maximum Energy Boost From Two Drinks
