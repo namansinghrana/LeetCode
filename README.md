@@ -79,5 +79,5 @@ Day-1
 74. Assign Cookies
 75. Longest Palindrome
 76. Maximum Distance in Arrays
-77. Ugly Numbers
+77. Ugly Numbers I
 78. Ugly Numbers II
