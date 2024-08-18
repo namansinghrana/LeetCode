@@ -80,4 +80,4 @@ Day-1
 75. Longest Palindrome
 76. Maximum Distance in Arrays
 77. Ugly Numbers
-78. 
+78. Ugly Num
