@@ -83,4 +83,4 @@ Day-1
 78. Ugly Numbers II
 79. Maximum Energy Boost From Two Drinks
 80. 2 Keys Keyboard
-81. Minimum Difficulty of a
+81. Minimum Difficulty of a Job
