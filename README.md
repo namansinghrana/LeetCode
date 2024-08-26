@@ -88,3 +88,5 @@ Day-1
 83. Stranger Printer
 84. Fractions Addition and Substraction
 85. Find the closest Palindrome
+86. InOrder Traversal
+87. 
