@@ -89,4 +89,5 @@ Day-1
 84. Fractions Addition and Substraction
 85. Find the closest Palindrome
 86. InOrder Traversal
-87. 
+87. PostOrder Traversal
+88. PreOrder Traversal
