@@ -97,6 +97,7 @@ Day-1
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
@@ -134,7 +135,12 @@ Day-1
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
