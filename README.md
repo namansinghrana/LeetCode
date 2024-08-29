@@ -101,6 +101,7 @@ Day-1
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 ## Graph
 |  |
