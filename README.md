@@ -106,6 +106,7 @@ Day-1
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Graph
 |  |
 | ------- |
@@ -163,4 +164,8 @@ Day-1
 | ------- |
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 <!---LeetCode Topics End-->
