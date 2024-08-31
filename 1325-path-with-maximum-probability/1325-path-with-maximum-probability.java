@@ -5,18 +5,22 @@ class Solution {
 
        for(int i=0; i<n-1; i++){
         int j=0;
+        boolean isChanged = false;
         for(int edge[] : edges){     
         int u = edge[0];
         int v = edge[1];
         double w = succProb[j];
         if(prob[u] * w > prob[v]){
             prob[v] = prob[u] * w;
+            isChanged = true;
         }
         if(prob[v] * w > prob[u]){
             prob[u] = prob[v] * w;
+            isChanged = true;
         }
         j++;
         }
+        if(!isChanged){ break;}
         }
         return prob[end_node];
     }
