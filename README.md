@@ -100,6 +100,7 @@ Day-1
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
@@ -132,6 +133,7 @@ Day-1
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
@@ -155,6 +157,7 @@ Day-1
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
