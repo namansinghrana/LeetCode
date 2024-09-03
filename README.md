@@ -106,6 +106,7 @@ Day-1
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
@@ -163,6 +164,7 @@ Day-1
 | [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
@@ -192,6 +194,7 @@ Day-1
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -212,4 +215,8 @@ Day-1
 |  |
 | ------- |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
+## Greedy
+|  |
+| ------- |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->
