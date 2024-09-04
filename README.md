@@ -111,6 +111,7 @@ Day-1
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
+| [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -141,6 +142,7 @@ Day-1
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -149,6 +151,7 @@ Day-1
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
@@ -170,6 +173,7 @@ Day-1
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
