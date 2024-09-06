@@ -118,6 +118,7 @@ Day-1
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Graph
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Day-1
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
@@ -245,4 +247,8 @@ Day-1
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
+## Linked List
+|  |
+| ------- |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
