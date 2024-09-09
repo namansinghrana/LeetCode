@@ -115,6 +115,7 @@ Day-1
 | [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -187,6 +188,7 @@ Day-1
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -208,6 +210,7 @@ Day-1
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
+| [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -254,6 +257,7 @@ Day-1
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Tree
 |  |
