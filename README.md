@@ -100,6 +100,7 @@ Day-1
 | [0001-two-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
@@ -239,6 +240,7 @@ Day-1
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
