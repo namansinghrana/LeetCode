@@ -98,6 +98,7 @@ Day-1
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0035-search-insert-position) |
@@ -242,6 +243,7 @@ Day-1
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
@@ -280,4 +282,8 @@ Day-1
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0027-remove-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
