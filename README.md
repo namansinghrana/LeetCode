@@ -103,6 +103,7 @@ Day-1
 | [0035-search-insert-position](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -219,6 +220,7 @@ Day-1
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2155-find-missing-observations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
