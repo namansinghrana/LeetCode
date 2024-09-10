@@ -129,6 +129,7 @@ Day-1
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
@@ -138,11 +139,13 @@ Day-1
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
@@ -152,6 +155,7 @@ Day-1
 | [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1484-linked-list-in-binary-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
@@ -165,6 +169,7 @@ Day-1
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
 | [1484-linked-list-in-binary-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
