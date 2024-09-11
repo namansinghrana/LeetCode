@@ -157,6 +157,7 @@ Day-1
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
@@ -172,6 +173,7 @@ Day-1
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0404-sum-of-left-leaves](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
@@ -286,10 +288,12 @@ Day-1
 ## Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0404-sum-of-left-leaves](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [1484-linked-list-in-binary-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 ## Two Pointers
 |  |
