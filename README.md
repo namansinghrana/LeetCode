@@ -118,6 +118,7 @@ Day-1
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -265,6 +266,7 @@ Day-1
 ## Prefix Sum
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## String
 |  |
@@ -314,6 +316,7 @@ Day-1
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Counting
