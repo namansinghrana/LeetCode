@@ -118,6 +118,7 @@ Day-1
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
+| [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
@@ -244,6 +245,7 @@ Day-1
 | [0066-plus-one](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [2155-find-missing-observations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
@@ -253,6 +255,7 @@ Day-1
 | [0018-4sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
 ## Minimum Spanning Tree
@@ -278,6 +281,7 @@ Day-1
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
