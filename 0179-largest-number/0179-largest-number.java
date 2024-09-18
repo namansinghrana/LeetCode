@@ -15,10 +15,10 @@ class Solution {
         });
 
         if(arr[0].equals("0")) return "0";
-        String res="";
+        StringBuilder res=new StringBuilder();
         for(String val : arr){
-            res += val;
+           res.append(val);
         }
-        return res;
+        return res.toString();
     }
 }
