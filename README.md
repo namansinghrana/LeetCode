@@ -165,6 +165,7 @@ Day-1
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0386-lexicographical-numbers](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
@@ -368,4 +369,8 @@ Day-1
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
