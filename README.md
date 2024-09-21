@@ -288,6 +288,7 @@ Day-1
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
+| [0214-shortest-palindrome](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -373,4 +374,16 @@ Day-1
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
