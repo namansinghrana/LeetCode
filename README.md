@@ -135,6 +135,7 @@ Day-1
 | [2155-find-missing-observations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -222,6 +223,7 @@ Day-1
 | ------- |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
+| [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Day-1
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
@@ -295,6 +298,7 @@ Day-1
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -374,6 +378,7 @@ Day-1
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## Rolling Hash
 |  |
 | ------- |
