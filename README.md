@@ -122,6 +122,7 @@ Day-1
 | [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0729-my-calendar-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
@@ -286,11 +287,13 @@ Day-1
 | [0004-median-of-two-sorted-arrays](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0729-my-calendar-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -407,12 +410,15 @@ Day-1
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
