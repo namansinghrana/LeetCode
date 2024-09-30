@@ -128,6 +128,7 @@ Day-1
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -414,6 +415,7 @@ Day-1
 | [0729-my-calendar-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -428,4 +430,8 @@ Day-1
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
