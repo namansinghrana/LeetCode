@@ -257,6 +257,7 @@ Day-1
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
