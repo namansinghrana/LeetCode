@@ -106,6 +106,7 @@ Day-1
 | [0027-remove-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
@@ -214,6 +215,7 @@ Day-1
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
@@ -236,6 +238,7 @@ Day-1
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -325,6 +328,7 @@ Day-1
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0046-permutations) |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
 ## Linked List
