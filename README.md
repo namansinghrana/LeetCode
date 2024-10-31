@@ -321,6 +321,7 @@ Day-1
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
@@ -458,5 +459,6 @@ Day-1
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
