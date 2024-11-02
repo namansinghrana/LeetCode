@@ -332,6 +332,7 @@ Day-1
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [2580-circular-sentence](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2580-circular-sentence) |
 | [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
