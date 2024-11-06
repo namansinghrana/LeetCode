@@ -150,6 +150,7 @@ Day-1
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3227-find-missing-and-repeated-values](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
+| [3291-find-if-array-can-be-sorted](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -293,6 +294,7 @@ Day-1
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [3291-find-if-array-can-be-sorted](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -397,6 +399,7 @@ Day-1
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3291-find-if-array-can-be-sorted](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 ## Counting
 |  |
 | ------- |
