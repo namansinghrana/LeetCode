@@ -482,4 +482,8 @@ Day-1
 | ------- |
 | [0020-valid-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
