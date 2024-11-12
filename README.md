@@ -107,6 +107,7 @@ Day-1
 | [0031-next-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
+| [0045-jump-game-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
@@ -242,6 +243,7 @@ Day-1
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
@@ -357,6 +359,7 @@ Day-1
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
