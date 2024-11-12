@@ -117,6 +117,7 @@ Day-1
 | [0136-single-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
@@ -278,6 +279,7 @@ Day-1
 | [0007-reverse-integer](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -392,6 +394,7 @@ Day-1
 | [0027-remove-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0189-rotate-array) |
 ## Divide and Conquer
 |  |
 | ------- |
