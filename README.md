@@ -144,6 +144,7 @@ Day-1
 | [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -298,6 +299,7 @@ Day-1
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3291-find-if-array-can-be-sorted](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 ## Minimum Spanning Tree
 |  |
@@ -317,6 +319,7 @@ Day-1
 | [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0792-binary-search) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 ## Prefix Sum
 |  |
 | ------- |
