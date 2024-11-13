@@ -346,6 +346,7 @@ Day-1
 | ------- |
 | [0014-longest-common-prefix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
@@ -408,6 +409,7 @@ Day-1
 | [0018-4sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0189-rotate-array) |
@@ -472,6 +474,7 @@ Day-1
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0812-rotate-string) |
 ## Hash Function
