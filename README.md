@@ -150,6 +150,7 @@ Day-1
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2048-build-array-from-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2048-build-array-from-permutation) |
+| [2089-maximum-matrix-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
@@ -247,6 +248,7 @@ Day-1
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
+| [2089-maximum-matrix-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
@@ -388,6 +390,7 @@ Day-1
 | [0134-gas-station](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2089-maximum-matrix-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2089-maximum-matrix-sum) |
 ## Backtracking
 |  |
 | ------- |
