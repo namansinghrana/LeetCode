@@ -262,6 +262,7 @@ Day-1
 | [0053-maximum-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 ## Hash Table
@@ -305,6 +306,7 @@ Day-1
 | [0009-palindrome-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -481,6 +483,7 @@ Day-1
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 ## Trie
 |  |
