@@ -157,6 +157,7 @@ Day-1
 | [2155-find-missing-observations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -179,6 +180,7 @@ Day-1
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -189,12 +191,14 @@ Day-1
 | [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2803-modify-graph-edge-weights](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
 |  |
@@ -228,6 +232,7 @@ Day-1
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
 | [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2121-find-if-path-exists-in-graph) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
@@ -256,6 +261,7 @@ Day-1
 | [2089-maximum-matrix-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2089-maximum-matrix-sum) |
 | [2103-find-all-groups-of-farmland](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2103-find-all-groups-of-farmland) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
