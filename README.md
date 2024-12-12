@@ -167,6 +167,7 @@ Day-1
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -201,6 +202,7 @@ Day-1
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [2164-two-best-non-overlapping-events](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
@@ -326,6 +328,7 @@ Day-1
 | [2155-find-missing-observations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Math
 |  |
 | ------- |
