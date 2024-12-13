@@ -168,6 +168,7 @@ Day-1
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -203,6 +204,7 @@ Day-1
 | [2164-two-best-non-overlapping-events](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
@@ -312,6 +314,7 @@ Day-1
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -329,6 +332,7 @@ Day-1
 | [2232-adding-spaces-to-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2232-adding-spaces-to-a-string) |
 | [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2692-take-gifts-from-the-richest-pile) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Math
 |  |
 | ------- |
@@ -365,6 +369,7 @@ Day-1
 | [2164-two-best-non-overlapping-events](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 ## Minimum Spanning Tree
