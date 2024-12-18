@@ -143,6 +143,7 @@ Day-1
 | [1435-xor-queries-of-a-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1755-defuse-the-bomb](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -603,6 +604,7 @@ Day-1
 | ------- |
 | [0020-valid-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Database
 |  |
 | ------- |
@@ -624,4 +626,8 @@ Day-1
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
