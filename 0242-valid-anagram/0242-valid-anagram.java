@@ -1,12 +1,12 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
+        if(s.length() != t.length()) return false;
+        Map<Character, Integer> map1 = new HashMap<>();
+        char[] str1 = s.toCharArray();
+        char[] str2 = t.toCharArray();
+        Arrays.sort(str1);
+        Arrays.sort(str2);
 
-        char[] sChar = s.toCharArray();
-        char[] tChar = t.toCharArray();
-
-        Arrays.sort(sChar);
-        Arrays.sort(tChar);
-
-        return Arrays.equals(sChar, tChar);
+        return Arrays.equals(str1,str2);
     }
 }
