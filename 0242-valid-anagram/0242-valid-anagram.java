@@ -1,16 +1,17 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
-        Map<Character, Integer> map1 = new HashMap<>();
-        Map<Character, Integer> map2 = new HashMap<>();
+        int[] count = new int[26];
 
         for(char c : s.toCharArray()){
-            map1.put(c, map1.getOrDefault(c, 0)+1);
-        }
-        
+            count[c-'a']++;
+        }   
+
         for(char c : t.toCharArray()){
-            map2.put(c, map2.getOrDefault(c, 0)+1);
+            count[c-'a']--;
         }
 
-        return map1.equals(map2);
+        boolean all_Zeroes = Arrays.stream(count).allMatch(element -> element == 0);
+
+        return all_Zeroes;
     }
 }
