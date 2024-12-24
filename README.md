@@ -109,6 +109,7 @@ Day-1
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0055-jump-game) |
@@ -314,6 +315,7 @@ Day-1
 | ------- |
 | [0001-two-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
@@ -375,6 +377,7 @@ Day-1
 | ------- |
 | [0015-3sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
@@ -437,6 +440,7 @@ Day-1
 | [0020-valid-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
