@@ -126,6 +126,7 @@ Day-1
 | [0217-contains-duplicate](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -206,6 +207,7 @@ Day-1
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
@@ -324,6 +326,7 @@ Day-1
 | [0217-contains-duplicate](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0523-continuous-subarray-sum) |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -386,6 +389,7 @@ Day-1
 | [0217-contains-duplicate](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
@@ -538,6 +542,7 @@ Day-1
 | [0053-maximum-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -556,6 +561,7 @@ Day-1
 | ------- |
 | [0169-majority-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2300-construct-string-with-repeat-limit](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2300-construct-string-with-repeat-limit) |
@@ -666,4 +672,12 @@ Day-1
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
