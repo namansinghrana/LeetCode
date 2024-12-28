@@ -125,6 +125,7 @@ Day-1
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/namansinghrana/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
@@ -434,6 +435,7 @@ Day-1
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/namansinghrana/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0523-continuous-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
