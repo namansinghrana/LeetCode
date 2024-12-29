@@ -106,6 +106,7 @@ Day-1
 | [0027-remove-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/namansinghrana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0045-jump-game-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0046-permutations) |
@@ -287,6 +288,7 @@ Day-1
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/namansinghrana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
@@ -321,6 +323,7 @@ Day-1
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/namansinghrana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0146-lru-cache) |
