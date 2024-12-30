@@ -118,6 +118,7 @@ Day-1
 | [0066-plus-one](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0128-longest-consecutive-sequence](https://github.com/namansinghrana/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -278,6 +279,7 @@ Day-1
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/namansinghrana/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -327,6 +329,7 @@ Day-1
 | [0036-valid-sudoku](https://github.com/namansinghrana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/namansinghrana/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
