@@ -459,6 +459,7 @@ Day-1
 | [0038-count-and-say](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/namansinghrana/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
@@ -540,6 +541,7 @@ Day-1
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/namansinghrana/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
