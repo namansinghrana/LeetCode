@@ -121,6 +121,7 @@ Day-1
 | [0128-longest-consecutive-sequence](https://github.com/namansinghrana/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/namansinghrana/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0189-rotate-array) |
@@ -427,6 +428,7 @@ Day-1
 | [0004-median-of-two-sorted-arrays](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/namansinghrana/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0729-my-calendar-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0792-binary-search) |
@@ -542,6 +544,7 @@ Day-1
 | [0031-next-permutation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/namansinghrana/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/namansinghrana/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
