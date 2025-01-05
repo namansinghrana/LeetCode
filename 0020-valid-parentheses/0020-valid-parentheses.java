@@ -1,10 +1,18 @@
-public class Solution {
+class Solution {
     public boolean isValid(String s) {
-        while (s.contains("()") || s.contains("{}") || s.contains("[]")) {
-            s = s.replace("()", "");
-            s = s.replace("{}", "");
-            s = s.replace("[]", "");
+        Stack<Character> stack = new Stack<>();
+        Map<Character, Character> map = new HashMap<>();
+        map.put(']','['); map.put(')','('); map.put('}','{');
+
+        for(char c : s.toCharArray()){
+            if(map.containsKey(c)){
+                if(!stack.isEmpty() && stack.peek() == map.get(c)){
+                    stack.pop();
+                }else{ return false; }
+            }else{
+                stack.push(c);
+            }
         }
-        return s.isEmpty();
+        return stack.isEmpty();
     }
 }
