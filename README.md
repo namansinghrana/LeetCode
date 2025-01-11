@@ -149,6 +149,7 @@ Day-1
 | [0859-design-circular-deque](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
+| [0907-koko-eating-bananas](https://github.com/namansinghrana/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1063-best-sightseeing-pair](https://github.com/namansinghrana/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
@@ -444,6 +445,7 @@ Day-1
 | [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0907-koko-eating-bananas](https://github.com/namansinghrana/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
