@@ -341,6 +341,7 @@ Day-1
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/namansinghrana/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/namansinghrana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
@@ -477,6 +478,7 @@ Day-1
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/namansinghrana/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -705,6 +707,7 @@ Day-1
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/namansinghrana/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
