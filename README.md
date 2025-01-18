@@ -354,6 +354,7 @@ Day-1
 | [0229-majority-element-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/namansinghrana/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0523-continuous-subarray-sum) |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -492,6 +493,7 @@ Day-1
 | [0214-shortest-palindrome](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/namansinghrana/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -711,6 +713,7 @@ Day-1
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/namansinghrana/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/namansinghrana/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
