@@ -346,6 +346,7 @@ Day-1
 | [0036-valid-sudoku](https://github.com/namansinghrana/LeetCode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/namansinghrana/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/namansinghrana/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -488,6 +489,7 @@ Day-1
 | [0038-count-and-say](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/namansinghrana/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/namansinghrana/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
@@ -715,6 +717,7 @@ Day-1
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/namansinghrana/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/namansinghrana/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/namansinghrana/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/namansinghrana/LeetCode/tree/master/0567-permutation-in-string) |
