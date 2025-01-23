@@ -544,6 +544,7 @@ Day-1
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/namansinghrana/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/namansinghrana/LeetCode/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/namansinghrana/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0725-split-linked-list-in-parts) |
@@ -583,6 +584,7 @@ Day-1
 | [0088-merge-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/namansinghrana/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/namansinghrana/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/namansinghrana/LeetCode/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/namansinghrana/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0189-rotate-array) |
 | [0567-permutation-in-string](https://github.com/namansinghrana/LeetCode/tree/master/0567-permutation-in-string) |
@@ -636,6 +638,7 @@ Day-1
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/namansinghrana/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/namansinghrana/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 ## Memoization
@@ -703,6 +706,7 @@ Day-1
 | ------- |
 | [0020-valid-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/namansinghrana/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/namansinghrana/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/namansinghrana/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/namansinghrana/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/namansinghrana/LeetCode/tree/master/0739-daily-temperatures) |
