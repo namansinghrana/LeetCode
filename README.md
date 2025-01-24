@@ -210,6 +210,7 @@ Day-1
 | ------- |
 | [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/namansinghrana/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -258,6 +259,7 @@ Day-1
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/namansinghrana/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1428-jump-game-iii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
@@ -278,6 +280,7 @@ Day-1
 | [0695-max-area-of-island](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
+| [0820-find-eventual-safe-states](https://github.com/namansinghrana/LeetCode/tree/master/0820-find-eventual-safe-states) |
 | [1428-jump-game-iii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1428-jump-game-iii) |
 | [1484-linked-list-in-binary-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2035-count-sub-islands) |
@@ -761,4 +764,8 @@ Day-1
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/namansinghrana/LeetCode/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
