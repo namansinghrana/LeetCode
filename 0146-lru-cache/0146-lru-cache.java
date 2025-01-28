@@ -1,80 +1,35 @@
 class LRUCache {
-
-    final int capacity;
-    final Map<Integer, ListNode> cache;
-    final ListNode head;
-    final ListNode tail;
-
-    static class ListNode{
-        int key, value;
-        ListNode prev,next;
-        ListNode(int key,int value){
-            this.key = key;
-            this.value = value;
-        }
-    }
-
+    private ArrayList<int[]> map;
+    private int capacity;
+    
     public LRUCache(int capacity) {
+        this.map = new ArrayList<>();
         this.capacity = capacity;
-        this.cache = new HashMap<>();
-        
-        head = new ListNode(0,0);
-        tail = new ListNode(0,0);
-        head.next = tail;
-        tail.prev = head;
     }
     
     public int get(int key) {
-        if(!cache.containsKey(key)) return -1;
-
-        ListNode node = cache.get(key);
-        moveToHead(node);
-        return node.value;
+        for(int i=0;i<map.size();i++){
+            if(map.get(i)[0] == key){
+                int[] tmp = map.remove(i);
+                map.add(tmp);
+                return tmp[1];
+            }
+        }
+        return -1;
     }
     
     public void put(int key, int value) {
-        if(cache.containsKey(key)){
-            ListNode node = cache.get(key);
-            node.value = value;
-            moveToHead(node);
-        }else{
-            ListNode newNode = new ListNode(key, value);
-            cache.put(key, newNode);
-            addNode(newNode);
-
-            if(cache.size() > capacity){
-                ListNode tailNode = removeTail();
-                cache.remove(tailNode.key);
+        for(int i=0;i<map.size();i++){
+            if(map.get(i)[0] == key){
+                int[] tmp = map.remove(i);
+                tmp[1] = value;
+                map.add(tmp);
+                return;
             }
         }
-    }
 
-    private void addNode(ListNode node){
-        node.prev = head;
-        node.next = head.next;
-
-        head.next.prev = node;
-        head.next = node;
-    }
-
-
-    private void removeNode(ListNode node){
-        ListNode last = node.prev;
-        ListNode first = node.next;
-
-        last.next = first;
-        first.prev = last;
-    }
-
-    private void moveToHead(ListNode node){
-        removeNode(node);
-        addNode(node);
-    }
-
-    private ListNode removeTail(){
-        ListNode res = tail.prev;
-        removeNode(res);
-        return res;
+        if(capacity == map.size()){ map.remove(0); }
+        map.add(new int[]{ key, value });
     }
 }
 
