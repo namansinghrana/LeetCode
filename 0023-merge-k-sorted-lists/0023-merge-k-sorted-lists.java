@@ -9,7 +9,6 @@
  * }
  */
 class Solution {
-    
     public ListNode mergeTwoSortedList(ListNode l1, ListNode l2){
         if(l1 == null) return l2;
         if(l2 == null) return l1;
@@ -23,18 +22,19 @@ class Solution {
         }
     }
 
-    public ListNode partitionAndMerge(int start, int end, ListNode[] lists){
-        if(start > end){ return null; }
-        if(start == end){ return lists[start]; }
+    public ListNode partitionAndMerge(int start, int end,  ListNode[] lists){
+        if(start > end) return null; 
+        if(start == end) return lists[start]; 
 
-        int mid = start + (end - start)/2;
+        int mid = start + (end-start)/2;
         ListNode l1 = partitionAndMerge(start, mid, lists);
         ListNode l2 = partitionAndMerge(mid+1, end, lists);
         return mergeTwoSortedList(l1, l2);
     }
 
     public ListNode mergeKLists(ListNode[] lists) {
+        if(lists.length == 0) return null;
         int k = lists.length;
-        return partitionAndMerge(0, k-1, lists);    
+        return partitionAndMerge(0, k-1, lists);   
     }
 }
