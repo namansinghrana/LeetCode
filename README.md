@@ -225,6 +225,7 @@ Day-1
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/namansinghrana/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/namansinghrana/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
@@ -552,6 +553,7 @@ Day-1
 | [0002-add-two-numbers](https://github.com/namansinghrana/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/namansinghrana/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/namansinghrana/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/namansinghrana/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/namansinghrana/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/namansinghrana/LeetCode/tree/master/0143-reorder-list) |
@@ -611,6 +613,7 @@ Day-1
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/namansinghrana/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0169-majority-element) |
@@ -779,4 +782,8 @@ Day-1
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/namansinghrana/LeetCode/tree/master/0820-find-eventual-safe-states) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/namansinghrana/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
