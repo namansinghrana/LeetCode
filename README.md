@@ -422,6 +422,7 @@ Day-1
 | [0070-climbing-stairs](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/namansinghrana/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/namansinghrana/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/namansinghrana/LeetCode/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -643,6 +644,7 @@ Day-1
 |  |
 | ------- |
 | [0136-single-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/namansinghrana/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/namansinghrana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/namansinghrana/LeetCode/tree/master/0342-power-of-four) |
 | [1435-xor-queries-of-a-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
@@ -682,6 +684,7 @@ Day-1
 | [0021-merge-two-sorted-lists](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/namansinghrana/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/namansinghrana/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/namansinghrana/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/namansinghrana/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/namansinghrana/LeetCode/tree/master/1013-fibonacci-number) |
