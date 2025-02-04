@@ -428,6 +428,7 @@ Day-1
 | [0523-continuous-subarray-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/namansinghrana/LeetCode/tree/master/1013-fibonacci-number) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/namansinghrana/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2155-find-missing-observations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [3227-find-missing-and-repeated-values](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3227-find-missing-and-repeated-values) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -643,6 +644,7 @@ Day-1
 | [0136-single-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/namansinghrana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1435-xor-queries-of-a-subarray) |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/namansinghrana/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1940-maximum-xor-for-each-query](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
