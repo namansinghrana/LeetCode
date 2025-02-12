@@ -256,6 +256,7 @@ Day-1
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/namansinghrana/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/namansinghrana/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -595,6 +596,7 @@ Day-1
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/namansinghrana/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/namansinghrana/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -612,6 +614,7 @@ Day-1
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/namansinghrana/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/namansinghrana/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -691,6 +694,7 @@ Day-1
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/namansinghrana/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/namansinghrana/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Brainteaser
