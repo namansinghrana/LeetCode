@@ -203,6 +203,7 @@ Day-1
 | [3291-find-if-array-can-be-sorted](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/namansinghrana/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/namansinghrana/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/namansinghrana/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/namansinghrana/LeetCode/tree/master/3429-special-array-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -244,6 +245,7 @@ Day-1
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2803-modify-graph-edge-weights) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/namansinghrana/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Shortest Path
 |  |
@@ -419,6 +421,7 @@ Day-1
 | [2411-spiral-matrix-iv](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/namansinghrana/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3447-clear-digits](https://github.com/namansinghrana/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Math
