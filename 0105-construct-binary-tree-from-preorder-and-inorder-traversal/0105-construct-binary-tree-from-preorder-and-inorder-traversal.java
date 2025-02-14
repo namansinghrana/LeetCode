@@ -20,7 +20,7 @@ class Solution {
         return dfs(preorder, inorder,Integer.MAX_VALUE);
     }
 
-    private TreeNode dfs(int[] preorder, int[] inorder, int limit){
+    private  TreeNode dfs(int[] preorder, int[] inorder, int limit){
         if(preorder.length <= preIdx){ return null; }
         if(inorder[inIdx] == limit){
             inIdx++;
