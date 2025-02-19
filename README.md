@@ -267,6 +267,7 @@ Day-1
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/namansinghrana/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/namansinghrana/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
@@ -296,6 +297,7 @@ Day-1
 | [0104-maximum-depth-of-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/namansinghrana/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/namansinghrana/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -540,6 +542,7 @@ Day-1
 | [0214-shortest-palindrome](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/namansinghrana/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/namansinghrana/LeetCode/tree/master/0567-permutation-in-string) |
@@ -619,6 +622,7 @@ Day-1
 | [0199-binary-tree-right-side-view](https://github.com/namansinghrana/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/namansinghrana/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/namansinghrana/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/namansinghrana/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -640,6 +644,7 @@ Day-1
 | [0199-binary-tree-right-side-view](https://github.com/namansinghrana/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/namansinghrana/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/namansinghrana/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/namansinghrana/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -772,6 +777,7 @@ Day-1
 | ------- |
 | [0146-lru-cache](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/namansinghrana/LeetCode/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
