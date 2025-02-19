@@ -16,7 +16,7 @@ class Trie {
         for(char c : word.toCharArray()){
             int i= c-'a';
             if(cur.children[i] == null){ cur.children[i] = new TrieNode(); }
-            cur = cur.chilren[i];
+            cur = cur.children[i];
         }
         cur.endOfWord = true;
     }
@@ -32,8 +32,8 @@ class Trie {
     }
     
     public boolean startsWith(String prefix) {
-        TrieNode curr = root;
-        for(char c : word.toCharArray()){
+        TrieNode cur = root;
+        for(char c : prefix.toCharArray()){
             int i = c-'a';
             if(cur.children[i] == null){ return false;}
             cur = cur.children[i];
