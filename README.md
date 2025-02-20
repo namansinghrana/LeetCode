@@ -265,6 +265,7 @@ Day-1
 | [0124-binary-tree-maximum-path-sum](https://github.com/namansinghrana/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/namansinghrana/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/namansinghrana/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/namansinghrana/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/namansinghrana/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -541,6 +542,7 @@ Day-1
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/namansinghrana/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/namansinghrana/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0242-valid-anagram) |
@@ -751,6 +753,7 @@ Day-1
 | ------- |
 | [0014-longest-common-prefix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/namansinghrana/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/namansinghrana/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0386-lexicographical-numbers](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0386-lexicographical-numbers) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2755-extra-characters-in-a-string) |
@@ -781,6 +784,7 @@ Day-1
 | [0146-lru-cache](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/namansinghrana/LeetCode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/namansinghrana/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/namansinghrana/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0729-my-calendar-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
