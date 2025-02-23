@@ -157,6 +157,7 @@ Day-1
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/namansinghrana/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1063-best-sightseeing-pair](https://github.com/namansinghrana/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1127-last-stone-weight](https://github.com/namansinghrana/LeetCode/tree/master/1127-last-stone-weight) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1428-jump-game-iii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1428-jump-game-iii) |
@@ -237,6 +238,7 @@ Day-1
 | [0744-network-delay-time](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/namansinghrana/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1127-last-stone-weight](https://github.com/namansinghrana/LeetCode/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1917-maximum-average-pass-ratio) |
 | [2164-two-best-non-overlapping-events](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
