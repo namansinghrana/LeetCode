@@ -1,30 +1,25 @@
 class Solution {
+    List<List<Integer>> res;
     public List<List<Integer>> permute(int[] nums) {
-        List<List<Integer>> result=  new ArrayList<>();
-        perMute(nums,0,result);
-        return result;
+        res = new ArrayList<>();
+        backtrack(new ArrayList<>(), nums, new boolean[nums.length]);
+        return res;
     }
 
-    public void perMute(int[] nums,int currIndex,List<List<Integer>> result){
-
-        if(currIndex == nums.length-1){
-            List<Integer> currPermute = new ArrayList<>();
-            for(int num: nums){
-                currPermute.add(num);
-            }
-            result.add(currPermute);
+    public void backtrack(List<Integer> perm, int[] nums, boolean[] pick){
+        if(perm.size() == nums.length){
+            res.add(new ArrayList<>(perm));
             return;
         }
-        for(int index=currIndex; index < nums.length ; index++){
-            swap(nums,currIndex,index);
-            perMute(nums,currIndex+1,result);
-            swap(nums,currIndex,index);
-        }
-    }
 
-    public void swap(int[] nums, int i, int j){
-        int temp = nums[i];
-        nums[i] = nums[j];
-        nums[j] = temp;
+        for(int i=0;i<nums.length;i++){
+            if(!pick[i]){
+                perm.add(nums[i]);
+                pick[i] = true;
+                backtrack(perm, nums, pick);
+                perm.remove(perm.size() - 1);
+                pick[i] = false;
+            }
+        }
     }
 }
