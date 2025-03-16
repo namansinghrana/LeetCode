@@ -1,25 +1,16 @@
 class Solution {
-    List<List<Integer>> res;
     public List<List<Integer>> permute(int[] nums) {
-        res = new ArrayList<>();
-        backtrack(new ArrayList<>(), nums, new boolean[nums.length]);
-        return res;
-    }
+        if(nums.length == 0) return Arrays.asList(new ArrayList<>());
 
-    public void backtrack(List<Integer> perm, int[] nums, boolean[] pick){
-        if(perm.size() == nums.length){
-            res.add(new ArrayList<>(perm));
-            return;
-        }
-
-        for(int i=0;i<nums.length;i++){
-            if(!pick[i]){
-                perm.add(nums[i]);
-                pick[i] = true;
-                backtrack(perm, nums, pick);
-                perm.remove(perm.size() - 1);
-                pick[i] = false;
+        List<List<Integer>> perms = permute(Arrays.copyOfRange(nums, 1, nums.length));
+        List<List<Integer>> res = new ArrayList<>();
+        for(List<Integer> p : perms){
+            for(int i=0;i<=p.size();i++){
+                List<Integer> p_copy = new ArrayList<>(p);
+                p_copy.add(i, nums[0]);
+                res.add(p_copy);
             }
         }
+        return res;
     }
 }
