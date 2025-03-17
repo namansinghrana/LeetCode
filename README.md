@@ -122,6 +122,7 @@ Day-1
 | [0066-plus-one](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/namansinghrana/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/namansinghrana/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namansinghrana/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/namansinghrana/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -617,6 +618,7 @@ Day-1
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/namansinghrana/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0046-permutations) |
+| [0090-subsets-ii](https://github.com/namansinghrana/LeetCode/tree/master/0090-subsets-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/namansinghrana/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/namansinghrana/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -728,6 +730,7 @@ Day-1
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/namansinghrana/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/namansinghrana/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/namansinghrana/LeetCode/tree/master/0287-find-the-duplicate-number) |
