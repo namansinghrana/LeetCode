@@ -121,6 +121,7 @@ Day-1
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/namansinghrana/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/namansinghrana/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/namansinghrana/LeetCode/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/namansinghrana/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -275,6 +276,7 @@ Day-1
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/namansinghrana/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/namansinghrana/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/namansinghrana/LeetCode/tree/master/0110-balanced-binary-tree) |
@@ -357,6 +359,7 @@ Day-1
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/namansinghrana/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/namansinghrana/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0463-island-perimeter) |
@@ -563,6 +566,7 @@ Day-1
 | [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/namansinghrana/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/namansinghrana/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/namansinghrana/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0205-isomorphic-strings) |
@@ -618,6 +622,7 @@ Day-1
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/namansinghrana/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/namansinghrana/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/namansinghrana/LeetCode/tree/master/0090-subsets-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/namansinghrana/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
