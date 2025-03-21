@@ -115,6 +115,7 @@ Day-1
 | [0045-jump-game-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/namansinghrana/LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/namansinghrana/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0055-jump-game) |
@@ -625,6 +626,7 @@ Day-1
 | [0037-sudoku-solver](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/namansinghrana/LeetCode/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/namansinghrana/LeetCode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/namansinghrana/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/namansinghrana/LeetCode/tree/master/0090-subsets-ii) |
 | [0813-all-paths-from-source-to-target](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0813-all-paths-from-source-to-target) |
