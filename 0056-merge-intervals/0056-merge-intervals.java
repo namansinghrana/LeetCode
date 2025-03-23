@@ -9,13 +9,12 @@ class Solution {
             int end = interval[1];
             int lastEnd = output.get(output.size()-1)[1];
 
-            if(start <= lastEnd){   
+            if(start <= lastEnd){
                 output.get(output.size()-1)[1] = Math.max(lastEnd, end);
             }else{
                 output.add(new int[]{start, end});
             }
-            
         }
-        return output.toArray(new int[output.size()-1][]);
+        return output.toArray(new int[output.size()][]);  
     }
 }
