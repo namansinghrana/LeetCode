@@ -162,6 +162,7 @@ Day-1
 | [0792-binary-search](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0792-binary-search) |
 | [0854-making-a-large-island](https://github.com/namansinghrana/LeetCode/tree/master/0854-making-a-large-island) |
 | [0859-design-circular-deque](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0859-design-circular-deque) |
+| [0883-car-fleet](https://github.com/namansinghrana/LeetCode/tree/master/0883-car-fleet) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/namansinghrana/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -503,6 +504,7 @@ Day-1
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
 | [0780-max-chunks-to-make-sorted](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
+| [0883-car-fleet](https://github.com/namansinghrana/LeetCode/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/namansinghrana/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/namansinghrana/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/namansinghrana/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -874,6 +876,7 @@ Day-1
 | [0155-min-stack](https://github.com/namansinghrana/LeetCode/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/namansinghrana/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
+| [0883-car-fleet](https://github.com/namansinghrana/LeetCode/tree/master/0883-car-fleet) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/namansinghrana/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -910,6 +913,7 @@ Day-1
 | [0042-trapping-rain-water](https://github.com/namansinghrana/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/namansinghrana/LeetCode/tree/master/0739-daily-temperatures) |
 | [0780-max-chunks-to-make-sorted](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0780-max-chunks-to-make-sorted) |
+| [0883-car-fleet](https://github.com/namansinghrana/LeetCode/tree/master/0883-car-fleet) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Binary Indexed Tree
