@@ -170,6 +170,7 @@ Day-1
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/namansinghrana/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/namansinghrana/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0941-sort-array-by-parity](https://github.com/namansinghrana/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/namansinghrana/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/namansinghrana/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -450,6 +451,7 @@ Day-1
 | [0797-rabbits-in-forest](https://github.com/namansinghrana/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [0906-walking-robot-simulation](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0940-fruit-into-baskets](https://github.com/namansinghrana/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1023-time-based-key-value-store](https://github.com/namansinghrana/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -953,6 +955,7 @@ Day-1
 | [0424-longest-repeating-character-replacement](https://github.com/namansinghrana/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/namansinghrana/LeetCode/tree/master/0567-permutation-in-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/namansinghrana/LeetCode/tree/master/0940-fruit-into-baskets) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/namansinghrana/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1755-defuse-the-bomb](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
