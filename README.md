@@ -190,6 +190,7 @@ Day-1
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1656-count-good-triplets](https://github.com/namansinghrana/LeetCode/tree/master/1656-count-good-triplets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/namansinghrana/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1755-defuse-the-bomb](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -547,6 +548,7 @@ Day-1
 | [1468-check-if-n-and-its-double-exist](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1675-magnetic-force-between-two-balls](https://github.com/namansinghrana/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2164-two-best-non-overlapping-events](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -585,6 +587,7 @@ Day-1
 | [0907-koko-eating-bananas](https://github.com/namansinghrana/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/namansinghrana/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1675-magnetic-force-between-two-balls](https://github.com/namansinghrana/LeetCode/tree/master/1675-magnetic-force-between-two-balls) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/2164-two-best-non-overlapping-events) |
