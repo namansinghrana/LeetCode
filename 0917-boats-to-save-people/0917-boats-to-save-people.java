@@ -3,13 +3,16 @@ class Solution {
         Arrays.sort(people);
         int left=0, right=people.length-1;
         int boats=0;
+
         while(left <= right){
-            if(people[left] + people[right] <= limit){
+            int sum = people[left] + people[right];
+            if(sum <= limit){
                 left++;
             }
             right--;
             boats++;
         }
+
         return boats;
-     }
+    }
 }
