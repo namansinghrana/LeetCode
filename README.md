@@ -513,6 +513,7 @@ Day-1
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0539-minimum-time-difference) |
+| [0633-sum-of-square-numbers](https://github.com/namansinghrana/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0797-rabbits-in-forest](https://github.com/namansinghrana/LeetCode/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/namansinghrana/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/namansinghrana/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -585,6 +586,7 @@ Day-1
 | [0209-minimum-size-subarray-sum](https://github.com/namansinghrana/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/namansinghrana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/namansinghrana/LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/namansinghrana/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0729-my-calendar-i](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/namansinghrana/-CrackYourPlacement/tree/master/0792-binary-search) |
@@ -785,6 +787,7 @@ Day-1
 | [0287-find-the-duplicate-number](https://github.com/namansinghrana/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/namansinghrana/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/namansinghrana/LeetCode/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/namansinghrana/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0908-middle-of-the-linked-list](https://github.com/namansinghrana/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/namansinghrana/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/namansinghrana/LeetCode/tree/master/0941-sort-array-by-parity) |
