@@ -1,3 +1,15 @@
+//Naive One
+//-------------------------------
+class Solution{
+    public int findMin(int[] nums){
+        int min=Integer.MAX_VALUE;
+        for(int num : nums){ min = Math.min(min, num);}
+        return min;
+    }
+}
+
+
+//-------------------------------
 class Solution {
     public int findMin(int[] nums) {
         int l=0;
