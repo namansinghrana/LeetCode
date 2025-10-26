@@ -1,3 +1,4 @@
+//dfs
 class Solution {
 
     public void dfs(char[][] grid,int i,int j){
@@ -27,3 +28,18 @@ class Solution {
         return count;
     }
 }
+
+//BFS
+
+        while(!queue.isEmpty()){
+            int size = queue.poll();
+            for(int i=0;i<size;i++){
+                int[] cell = queue.poll();
+                int x = cell[0];
+                int y = cell[1];
+
+                for(int[] d : dir){
+                    
+                }
+            }
+        }
