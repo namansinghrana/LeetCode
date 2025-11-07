@@ -1,3 +1,4 @@
+//Hashing and Collision Overhead
 class Solution {
     public int characterReplacement(String s, int k) {
         Map<Character, Integer> map = new HashMap<>();
@@ -13,5 +14,25 @@ class Solution {
             res = Math.max(res, r-l+1);
         }
         return res;
+    }
+}
+
+//O(1) indexing
+//No hashing, No colllsion
+class Solution {
+    public int characterReplacement(String s, int k) {
+        int maxLen=0, maxOccurence=0;
+        int[] count = new int[26];
+        int start=0;
+        for(int i=0;i<s.length();i++){
+            count[s.charAt(i) - 'A']++;
+            if(count[s.charAt(i) - 'A'] > maxOccurence){ maxOccurence = count[s.charAt(i) - 'A']; }
+            while(i-start+1 - maxOccurence > k){
+                count[s.charAt(start) - 'A']--;
+                start++;
+            }
+            maxLen = Math.max(maxLen, i-start+1);
+        }
+        return maxLen;
     }
 }
