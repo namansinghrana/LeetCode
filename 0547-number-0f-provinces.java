@@ -36,3 +36,50 @@ class Solution {
         }
     }
 }
+
+
+//Connected Components using BFS
+class Solution {
+    public int findCircleNum(int[][] isConnected) {
+        int n = isConnected.length;
+        int m = isConnected[0].length;
+        List<List<Integer>> graph = new ArrayList<>();
+        for(int i=0;i<n;i++){ graph.add(new ArrayList<>()); }
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(isConnected[i][j] == 1 && i != j){
+                    graph.get(i).add(j);
+                    graph.get(j).add(i);
+                }
+            }
+        }
+
+        int connected=0;
+        boolean[] vis = new boolean[n];
+
+        for(int i=0;i<n;i++){
+            if(!vis[i]){
+                bfs(graph,i,vis);
+                connected++;
+            }
+        }
+
+        return connected;
+    }
+
+    private void bfs(List<List<Integer>> graph, int i, boolean[] vis){
+        Queue<Integer> q = new LinkedList<>();
+        q.offer(i);
+        vis[i] = true;
+
+        while(!q.isEmpty()){
+            int curr = q.poll();
+            for(int next : graph.get(curr)){
+                if(!vis[next]){
+                    vis[next] = true;
+                    q.offer(next);
+                }
+            }
+        }
+    }
+}
