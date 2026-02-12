@@ -39,7 +39,7 @@ class Solution {
     public int maxSubArray(int[] nums) {
         
         int n = nums.length;
-        int currSum =0, res=0;
+        int currSum =0, res=Integer.MIN_VALUE;
         for(int i=0;i<n;i++){
             if(currSum + nums[i] < nums[i]){
                 currSum = nums[i];
